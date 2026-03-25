@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tartence/static/css/main.e6c13ad2.css",
+    "main.js": "/tartence/static/js/main.e85ae66e.js",
+    "index.html": "/tartence/index.html",
+    "main.e6c13ad2.css.map": "/tartence/static/css/main.e6c13ad2.css.map",
+    "main.e85ae66e.js.map": "/tartence/static/js/main.e85ae66e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e85ae66e.js"
+  ]
+}
